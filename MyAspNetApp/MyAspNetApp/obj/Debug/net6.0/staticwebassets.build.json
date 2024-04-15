@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Pw3xjyB20lv4XotJogBBl/+qvOlu7ZQwRcpsNLhKJb4=",
+  "Source": "WebApplication",
+  "BasePath": "_content/WebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication\\wwwroot",
+      "Source": "WebApplication",
+      "ContentRoot": "D:\\Microsoft Visual Studio\\source\\repos\\MyAspNetApp\\MyAspNetApp\\wwwroot\\",
+      "BasePath": "_content/WebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
